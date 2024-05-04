@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DominiosRicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c990d0238f27c1889d2997f592eee53de6dd29cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b258a814fe4ab75711d04287b25beaaeb12f358")]
 [assembly: System.Reflection.AssemblyProductAttribute("DominiosRicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DominiosRicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
